@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "target_file": "target.json",
+      "source_file": "example.prop",
+      "target_type": "json"
+    }
+  ]
+}
